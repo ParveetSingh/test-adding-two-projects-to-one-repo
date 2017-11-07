@@ -1,0 +1,15 @@
+// To create a new project
+ng new name-of-project
+
+// To compile
+ng serve
+//Then, opwn the URL in browser localhost:4200
+
+// To create a new component
+ng generate component name-of-component
+
+// To create service
+ng generate service name-of-service
+
+
+
